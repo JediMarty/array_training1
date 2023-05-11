@@ -5,4 +5,4 @@ team[2] = "Mike"
 team[3] = "Jon"
 puts team
 puts team.length()
-puts ("Number 10 is " + team[0])
+puts ("Football number 10 is " + team[0])
